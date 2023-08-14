@@ -42,7 +42,7 @@ password = ""
 # list to add each character to the empty password string now created
 for lett in password_list:
     password += lett
-print(password)
+print(f" Your password is: {password}")
 
 # An example to show me how to use the range function on a list
 # lst = [10, 50, 75, 83, 98, 84, 32]
